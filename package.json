@@ -1,0 +1,31 @@
+{
+  "name": "ch3-09-19-2023-nodejs-express-fs-main",
+  "version": "1.0.0",
+  "description": "ini perkenalan express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KM-BINAR-BATCH-5/CH3-09-2023-nodejs-express-fs.git"
+  },
+  "keywords": [
+    "sitepu06"
+  ],
+  "author": "grace-sitepu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KM-BINAR-BATCH-5/CH3-09-2023-nodejs-express-fs/issues"
+  },
+  "homepage": "https://github.com/KM-BINAR-BATCH-5/CH3-09-2023-nodejs-express-fs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
